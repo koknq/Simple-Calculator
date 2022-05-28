@@ -1,0 +1,40 @@
+D:\Documents\Projects\SimpleCalculator  C# WPF\SimpleCalculator-master\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.exe
+D:\Documents\Projects\SimpleCalculator  C# WPF\SimpleCalculator-master\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.deps.json
+D:\Documents\Projects\SimpleCalculator  C# WPF\SimpleCalculator-master\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.runtimeconfig.json
+D:\Documents\Projects\SimpleCalculator  C# WPF\SimpleCalculator-master\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.runtimeconfig.dev.json
+D:\Documents\Projects\SimpleCalculator  C# WPF\SimpleCalculator-master\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.dll
+D:\Documents\Projects\SimpleCalculator  C# WPF\SimpleCalculator-master\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.pdb
+D:\Documents\Projects\SimpleCalculator  C# WPF\SimpleCalculator-master\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.csproj.AssemblyReference.cache
+D:\Documents\Projects\SimpleCalculator  C# WPF\SimpleCalculator-master\SimpleCalculator\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Documents\Projects\SimpleCalculator  C# WPF\SimpleCalculator-master\SimpleCalculator\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Documents\Projects\SimpleCalculator  C# WPF\SimpleCalculator-master\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator_MarkupCompile.cache
+D:\Documents\Projects\SimpleCalculator  C# WPF\SimpleCalculator-master\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator_MarkupCompile.lref
+D:\Documents\Projects\SimpleCalculator  C# WPF\SimpleCalculator-master\SimpleCalculator\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Documents\Projects\SimpleCalculator  C# WPF\SimpleCalculator-master\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.g.resources
+D:\Documents\Projects\SimpleCalculator  C# WPF\SimpleCalculator-master\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Projects\SimpleCalculator  C# WPF\SimpleCalculator-master\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.AssemblyInfoInputs.cache
+D:\Documents\Projects\SimpleCalculator  C# WPF\SimpleCalculator-master\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.AssemblyInfo.cs
+D:\Documents\Projects\SimpleCalculator  C# WPF\SimpleCalculator-master\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.csproj.CoreCompileInputs.cache
+D:\Documents\Projects\SimpleCalculator  C# WPF\SimpleCalculator-master\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.dll
+D:\Documents\Projects\SimpleCalculator  C# WPF\SimpleCalculator-master\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.pdb
+D:\Documents\Projects\SimpleCalculator  C# WPF\SimpleCalculator-master\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.genruntimeconfig.cache
+D:\SimpleCalculator-master\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.exe
+D:\SimpleCalculator-master\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.deps.json
+D:\SimpleCalculator-master\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.runtimeconfig.json
+D:\SimpleCalculator-master\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.runtimeconfig.dev.json
+D:\SimpleCalculator-master\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.dll
+D:\SimpleCalculator-master\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.pdb
+D:\SimpleCalculator-master\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.csproj.AssemblyReference.cache
+D:\SimpleCalculator-master\SimpleCalculator\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\SimpleCalculator-master\SimpleCalculator\obj\Debug\netcoreapp3.1\App.g.cs
+D:\SimpleCalculator-master\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator_MarkupCompile.cache
+D:\SimpleCalculator-master\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator_MarkupCompile.lref
+D:\SimpleCalculator-master\SimpleCalculator\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\SimpleCalculator-master\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.g.resources
+D:\SimpleCalculator-master\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\SimpleCalculator-master\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.AssemblyInfoInputs.cache
+D:\SimpleCalculator-master\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.AssemblyInfo.cs
+D:\SimpleCalculator-master\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.csproj.CoreCompileInputs.cache
+D:\SimpleCalculator-master\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.dll
+D:\SimpleCalculator-master\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.pdb
+D:\SimpleCalculator-master\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.genruntimeconfig.cache
